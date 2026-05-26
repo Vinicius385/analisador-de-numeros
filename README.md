@@ -1,4 +1,4 @@
-# Number Analyzer
+# Analisador de Números
 
 Aplicação web desenvolvida para análise de números utilizando HTML, CSS e JavaScript.
 
